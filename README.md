@@ -7,4 +7,7 @@ pkg install python2 -y
 AND RUN THE TOOL USING THIS COMMAND 
 
 git clone https://github.com/bypass07/allpkgs/ 
+cd allpkgs 
+python2 allpkgs.py
+
 
