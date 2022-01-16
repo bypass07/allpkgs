@@ -6,4 +6,5 @@ pkg install python2 -y
 
 AND RUN THE TOOL USING THIS COMMAND 
 
-git clone https
+git clone https://github.com/bypass07/allpkgs/ 
+
